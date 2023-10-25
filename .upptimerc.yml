@@ -11,6 +11,8 @@ sites:
     url: https://blog.armadayazilim.com/
   - name: Armada Yazılım - Arex
     url: https://arex.armadayazilim.com/
+  - name: Armada Yazılım - Proje
+    url: https://proje.armadayazilim.com/
   - name: Armada Yazılım - ArmadaWorks
     url: https://armadaworks.net/
 
@@ -20,9 +22,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://www.armadayazilim.com/kaynak/icerikler/logo-armada.svg
-  name: Armada Yazılım - Upptime
+  name: Armada Yazılım Uptime Status
   introTitle: "Armada Yazılım **Upptime** Monitor "
-  introMessage: Armada Yazılım status page 
+  introMessage:   
   navbar:
     - title: Status
       href: /
