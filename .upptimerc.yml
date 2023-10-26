@@ -28,8 +28,12 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Armada Yazılım
+      href: https://armadayazilim.com/
+    - title: Armada Works
+      href: https://armadaworks.net/
+    - title: Arex
+      href: https://arex.armadayazilim.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
