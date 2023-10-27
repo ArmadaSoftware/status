@@ -13,6 +13,8 @@ sites:
     url: https://arex.armadayazilim.com/
   - name: Armada Yazılım - Proje
     url: https://proje.armadayazilim.com/
+  - name: Armada Yazılım - DelmiaWorks
+    url: https://delmiaworks.armadayazilim.com/
   - name: Armada Yazılım - ArmadaWorks
     url: https://armadaworks.net/
   - name: Maksimo
