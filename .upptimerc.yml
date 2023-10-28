@@ -23,8 +23,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.armadayazilim.com
-  baseUrl: /status
+  cname: status.armadayazilim.com
+  # baseUrl: /status
   logoUrl: https://www.armadayazilim.com/kaynak/icerikler/logo-armada.svg
   name: Armada Yazılım Uptime Status
   introTitle: "Armada Yazılım **Upptime** Monitor "
