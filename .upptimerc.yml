@@ -27,7 +27,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://www.armadayazilim.com/kaynak/icerikler/logo-armada.svg
   name: Armada Yazılım Uptime Status
-  introTitle: "Armada Yazılım **Upptime** Monitor "
+  introTitle: "Armada Yazılım Uptime Monitor "
   introMessage:   
   navbar:
     - title: Status
