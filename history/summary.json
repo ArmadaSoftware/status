@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2610,
-    "timeDay": 1756,
-    "timeWeek": 2197,
-    "timeMonth": 2610,
-    "timeYear": 2610,
+    "time": 2582,
+    "timeDay": 1807,
+    "timeWeek": 2159,
+    "timeMonth": 2582,
+    "timeYear": 2582,
     "dailyMinutesDown": {}
   },
   {
@@ -125,19 +125,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/armadaworks.net.ico",
     "slug": "armada-yazilim-armada-works",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1150,
     "timeDay": 1029,
     "timeWeek": 1128,
     "timeMonth": 1150,
     "timeYear": 1150,
-    "dailyMinutesDown": {
-      "2023-11-08": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Maksimo",
