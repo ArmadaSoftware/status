@@ -131,19 +131,19 @@
     "url": "https://armadaworks.net/",
     "icon": "https://icons.duckduckgo.com/ip3/armadaworks.net.ico",
     "slug": "armada-yazilim-armada-works",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1149,
-    "timeDay": 1395,
-    "timeWeek": 1075,
-    "timeMonth": 1148,
-    "timeYear": 1149,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1145,
+    "timeDay": 1174,
+    "timeWeek": 1060,
+    "timeMonth": 1143,
+    "timeYear": 1145,
     "dailyMinutesDown": {
-      "2023-12-02": 0
+      "2023-12-02": 10
     }
   },
   {
