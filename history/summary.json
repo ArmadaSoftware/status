@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/3dexperience.armadayazilim.com.ico",
     "slug": "armada-yazilim-3dexperience",
     "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "98.83%",
+    "uptime": "98.81%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "98.81%",
     "time": 4015,
     "timeDay": 2794,
     "timeWeek": 3682,
     "timeMonth": 4162,
     "timeYear": 4015,
     "dailyMinutesDown": {
-      "2023-12-29": 0,
+      "2023-12-29": 16,
       "2023-12-18": 64,
       "2023-12-17": 20,
       "2023-12-13": 29,
@@ -106,28 +106,30 @@
     "url": "https://proje.armadayazilim.com/",
     "icon": "https://icons.duckduckgo.com/ip3/proje.armadayazilim.com.ico",
     "slug": "armada-yazilim-proje",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1209,
     "timeDay": 1030,
     "timeWeek": 1142,
     "timeMonth": 1072,
     "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 3
+    }
   },
   {
     "name": "Armada Yazılım - DelmiaWorks",
     "url": "https://delmiaworks.armadayazilim.com/",
     "icon": "https://icons.duckduckgo.com/ip3/delmiaworks.armadayazilim.com.ico",
     "slug": "armada-yazilim-delmia-works",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1025,
@@ -135,7 +137,9 @@
     "timeWeek": 1002,
     "timeMonth": 952,
     "timeYear": 1025,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 2
+    }
   },
   {
     "name": "Armada Yazılım - ArmadaWorks",
@@ -160,9 +164,9 @@
     "url": "https://maksimo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/maksimo.com.ico",
     "slug": "maksimo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -171,6 +175,8 @@
     "timeWeek": 1180,
     "timeMonth": 1150,
     "timeYear": 1187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 0
+    }
   }
 ]
