@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/armadayazilim.com.ico",
     "slug": "armada-yazilim",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 2175,
     "timeDay": 1805,
     "timeWeek": 1969,
     "timeMonth": 2058,
     "timeYear": 2175,
     "dailyMinutesDown": {
-      "2024-04-02": 8,
       "2023-11-29": 23,
       "2023-11-23": 118
     }
