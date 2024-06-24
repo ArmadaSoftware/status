@@ -4,11 +4,11 @@
     "url": "https://armadayazilim.com/",
     "icon": "https://icons.duckduckgo.com/ip3/armadayazilim.com.ico",
     "slug": "armada-yazilim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2402,
     "timeDay": 4615,
@@ -16,7 +16,7 @@
     "timeMonth": 3986,
     "timeYear": 2402,
     "dailyMinutesDown": {
-      "2024-06-24": 9,
+      "2024-06-24": 0,
       "2023-11-29": 23,
       "2023-11-23": 118
     }
@@ -203,7 +203,7 @@
     "time": 1214,
     "timeDay": 1002,
     "timeWeek": 1239,
-    "timeMonth": 1340,
+    "timeMonth": 1351,
     "timeYear": 1214,
     "dailyMinutesDown": {
       "2024-05-14": 16,
