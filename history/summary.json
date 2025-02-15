@@ -4,9 +4,9 @@
     "url": "https://armadayazilim.com/",
     "icon": "https://icons.duckduckgo.com/ip3/armadayazilim.com.ico",
     "slug": "armada-yazilim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 2427,
     "timeYear": 2883,
     "dailyMinutesDown": {
+      "2025-02-15": 0,
       "2024-09-16": 21,
       "2024-07-27": 82,
       "2024-07-26": 33
@@ -188,7 +189,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/delmiaworks.armadayazilim.com.ico",
     "slug": "armada-yazilim-delmia-works",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
