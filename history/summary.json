@@ -6,17 +6,16 @@
     "slug": "armada-yazilim",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "89.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "90.02%",
     "uptimeYear": "99.14%",
     "time": 3137,
-    "timeDay": 7457,
-    "timeWeek": 3622,
-    "timeMonth": 2480,
+    "timeDay": 7768,
+    "timeWeek": 3619,
+    "timeMonth": 2479,
     "timeYear": 2748,
     "dailyMinutesDown": {
-      "2025-08-17": 10,
       "2025-07-21": 754,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -40,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.40%",
-    "time": 2865,
-    "timeDay": 2033,
-    "timeWeek": 3291,
-    "timeMonth": 3391,
-    "timeYear": 2781,
+    "time": 2868,
+    "timeDay": 3762,
+    "timeWeek": 3151,
+    "timeMonth": 3393,
+    "timeYear": 2786,
     "dailyMinutesDown": {
       "2025-08-10": 15,
       "2025-06-16": 220,
@@ -60,8 +59,7 @@
       "2024-12-23": 534,
       "2024-12-22": 55,
       "2024-09-13": 39,
-      "2024-08-19": 402,
-      "2024-08-18": 60
+      "2024-08-19": 402
     }
   },
   {
@@ -72,13 +70,13 @@
     "status": "up",
     "uptime": "97.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.27%",
+    "uptimeWeek": "96.12%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "97.66%",
-    "time": 1454,
-    "timeDay": 1324,
-    "timeWeek": 961,
-    "timeMonth": 1139,
+    "time": 1450,
+    "timeDay": 1246,
+    "timeWeek": 1053,
+    "timeMonth": 1150,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-08-11": 421,
@@ -136,8 +134,7 @@
       "2024-09-13": 39,
       "2024-09-02": 461,
       "2024-09-01": 56,
-      "2024-08-19": 392,
-      "2024-08-18": 60
+      "2024-08-19": 392
     }
   },
   {
@@ -151,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2050,
-    "timeDay": 915,
-    "timeWeek": 1509,
-    "timeMonth": 1623,
-    "timeYear": 1683,
+    "time": 2047,
+    "timeDay": 1803,
+    "timeWeek": 1513,
+    "timeMonth": 1645,
+    "timeYear": 1682,
     "dailyMinutesDown": {
       "2025-04-29": 35,
       "2025-04-28": 0
@@ -172,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "97.44%",
-    "time": 1527,
-    "timeDay": 5598,
-    "timeWeek": 6011,
-    "timeMonth": 5544,
-    "timeYear": 1694,
+    "time": 1537,
+    "timeDay": 5943,
+    "timeWeek": 5798,
+    "timeMonth": 5546,
+    "timeYear": 1708,
     "dailyMinutesDown": {
       "2025-07-28": 411,
       "2025-07-27": 55,
@@ -205,12 +202,12 @@
     "status": "up",
     "uptime": "98.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.27%",
+    "uptimeWeek": "96.12%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "97.23%",
     "time": 992,
-    "timeDay": 532,
-    "timeWeek": 1088,
+    "timeDay": 859,
+    "timeWeek": 1133,
     "timeMonth": 1061,
     "timeYear": 1010,
     "dailyMinutesDown": {
@@ -233,8 +230,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 55,
       "2024-09-13": 39,
-      "2024-08-19": 392,
-      "2024-08-18": 59
+      "2024-08-19": 392
     }
   },
   {
@@ -249,9 +245,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1056,
-    "timeDay": 762,
-    "timeWeek": 788,
-    "timeMonth": 867,
+    "timeDay": 736,
+    "timeWeek": 775,
+    "timeMonth": 868,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2024-09-29": 40,
@@ -271,8 +267,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 1156,
-    "timeDay": 1138,
-    "timeWeek": 1141,
+    "timeDay": 1155,
+    "timeWeek": 1183,
     "timeMonth": 1195,
     "timeYear": 1182,
     "dailyMinutesDown": {
