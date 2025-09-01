@@ -35,7 +35,7 @@
     "slug": "armada-yazilim-3dexperience",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "4.77%",
     "uptimeWeek": "63.98%",
     "uptimeMonth": "91.68%",
     "uptimeYear": "98.80%",
@@ -71,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.armadayazilim.com.ico",
     "slug": "armada-yazilim-blog",
     "status": "down",
-    "uptime": "97.58%",
+    "uptime": "97.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.00%",
-    "uptimeMonth": "90.63%",
-    "uptimeYear": "97.06%",
+    "uptimeWeek": "63.33%",
+    "uptimeMonth": "90.47%",
+    "uptimeYear": "97.05%",
     "time": 1417,
     "timeDay": 487,
     "timeWeek": 2138,
     "timeMonth": 1336,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2025-08-31": 1404,
+      "2025-09-01": 32,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 682,
       "2025-08-28": 103,
@@ -139,8 +140,7 @@
       "2024-09-16": 56,
       "2024-09-15": 56,
       "2024-09-13": 39,
-      "2024-09-02": 461,
-      "2024-09-01": 56
+      "2024-09-02": 461
     }
   },
   {
