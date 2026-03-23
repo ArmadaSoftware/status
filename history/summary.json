@@ -72,17 +72,18 @@
     "slug": "armada-yazilim-blog",
     "status": "down",
     "uptime": "97.28%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "99.09%",
     "uptimeMonth": "93.93%",
-    "uptimeYear": "96.34%",
+    "uptimeYear": "96.33%",
     "time": 923,
     "timeDay": 619,
     "timeWeek": 1260,
     "timeMonth": 1800,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2026-03-22": 0,
+      "2026-03-23": 40,
+      "2026-03-22": 51,
       "2026-03-09": 474,
       "2026-03-08": 55,
       "2026-02-24": 637,
@@ -128,8 +129,7 @@
       "2025-04-20": 55,
       "2025-04-07": 492,
       "2025-04-06": 52,
-      "2025-03-24": 622,
-      "2025-03-23": 56
+      "2025-03-24": 622
     }
   },
   {
@@ -165,7 +165,7 @@
     "uptime": "87.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.02%",
+    "uptimeMonth": "95.23%",
     "uptimeYear": "72.44%",
     "time": 1057,
     "timeDay": 1197,
