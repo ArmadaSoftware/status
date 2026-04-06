@@ -13,7 +13,7 @@
     "time": 1948,
     "timeDay": 680,
     "timeWeek": 520,
-    "timeMonth": 471,
+    "timeMonth": 475,
     "timeYear": 1736,
     "dailyMinutesDown": {
       "2026-01-27": 12,
@@ -59,8 +59,7 @@
       "2025-06-01": 55,
       "2025-05-19": 395,
       "2025-05-18": 56,
-      "2025-04-07": 491,
-      "2025-04-06": 52
+      "2025-04-07": 491
     }
   },
   {
@@ -69,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.armadayazilim.com.ico",
     "slug": "armada-yazilim-blog",
     "status": "down",
-    "uptime": "97.27%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.09%",
-    "uptimeYear": "96.33%",
+    "uptime": "97.26%",
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "96.31%",
     "time": 900,
     "timeDay": 793,
     "timeWeek": 1204,
-    "timeMonth": 1214,
+    "timeMonth": 1209,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2026-04-05": 0,
+      "2026-04-06": 44,
+      "2026-04-05": 49,
       "2026-03-23": 693,
       "2026-03-22": 51,
       "2026-03-09": 474,
@@ -126,8 +126,7 @@
       "2025-04-28": 8,
       "2025-04-21": 413,
       "2025-04-20": 55,
-      "2025-04-07": 492,
-      "2025-04-06": 52
+      "2025-04-07": 492
     }
   },
   {
@@ -144,7 +143,7 @@
     "time": 1649,
     "timeDay": 1798,
     "timeWeek": 1640,
-    "timeMonth": 1590,
+    "timeMonth": 1583,
     "timeYear": 1653,
     "dailyMinutesDown": {
       "2025-12-20": 12,
@@ -168,7 +167,7 @@
     "time": 1064,
     "timeDay": 2697,
     "timeWeek": 1244,
-    "timeMonth": 1095,
+    "timeMonth": 1094,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2026-03-25": 20,
@@ -278,8 +277,7 @@
       "2025-08-10": 55,
       "2025-05-19": 395,
       "2025-05-18": 55,
-      "2025-04-07": 492,
-      "2025-04-06": 52
+      "2025-04-07": 492
     }
   },
   {
@@ -296,7 +294,7 @@
     "time": 620,
     "timeDay": 286,
     "timeWeek": 232,
-    "timeMonth": 207,
+    "timeMonth": 210,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2026-02-24": 37,
@@ -319,7 +317,7 @@
     "time": 1186,
     "timeDay": 1875,
     "timeWeek": 1385,
-    "timeMonth": 1318,
+    "timeMonth": 1326,
     "timeYear": 1193,
     "dailyMinutesDown": {
       "2026-03-09": 474,
@@ -347,8 +345,7 @@
       "2025-05-18": 55,
       "2025-05-05": 41,
       "2025-05-04": 55,
-      "2025-04-07": 492,
-      "2025-04-06": 52
+      "2025-04-07": 492
     }
   }
 ]
