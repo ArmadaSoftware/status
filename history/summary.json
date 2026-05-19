@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
-    "time": 1821,
-    "timeDay": 356,
-    "timeWeek": 391,
-    "timeMonth": 472,
-    "timeYear": 1520,
+    "time": 1819,
+    "timeDay": 497,
+    "timeWeek": 406,
+    "timeMonth": 456,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2026-01-27": 12,
       "2025-12-05": 23,
@@ -36,11 +36,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.07%",
-    "time": 1522,
-    "timeDay": 170,
-    "timeWeek": 172,
-    "timeMonth": 329,
+    "uptimeYear": "99.09%",
+    "time": 1519,
+    "timeDay": 257,
+    "timeWeek": 179,
+    "timeMonth": 331,
     "timeYear": 1147,
     "dailyMinutesDown": {
       "2026-01-27": 11,
@@ -56,8 +56,7 @@
       "2025-06-16": 220,
       "2025-06-15": 55,
       "2025-06-02": 272,
-      "2025-06-01": 55,
-      "2025-05-19": 395
+      "2025-06-01": 55
     }
   },
   {
@@ -66,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.armadayazilim.com.ico",
     "slug": "armada-yazilim-blog",
     "status": "up",
-    "uptime": "97.25%",
-    "uptimeDay": "70.06%",
+    "uptime": "97.26%",
+    "uptimeDay": "77.36%",
     "uptimeWeek": "95.72%",
     "uptimeMonth": "96.87%",
-    "uptimeYear": "96.20%",
+    "uptimeYear": "96.22%",
     "time": 912,
-    "timeDay": 825,
-    "timeWeek": 957,
-    "timeMonth": 1106,
-    "timeYear": 893,
+    "timeDay": 1047,
+    "timeWeek": 922,
+    "timeMonth": 1087,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2026-05-18": 385,
       "2026-05-17": 46,
@@ -121,8 +120,7 @@
       "2025-06-16": 220,
       "2025-06-15": 55,
       "2025-06-02": 255,
-      "2025-06-01": 55,
-      "2025-05-19": 378
+      "2025-06-01": 55
     }
   },
   {
@@ -136,10 +134,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1656,
-    "timeDay": 1507,
-    "timeWeek": 1623,
-    "timeMonth": 1716,
+    "time": 1655,
+    "timeDay": 1576,
+    "timeWeek": 1610,
+    "timeMonth": 1711,
     "timeYear": 1621,
     "dailyMinutesDown": {
       "2025-12-20": 12,
@@ -153,16 +151,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/delmiaworks.armadayazilim.com.ico",
     "slug": "armada-yazilim-delmia-works",
     "status": "up",
-    "uptime": "88.20%",
+    "uptime": "88.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "72.44%",
-    "time": 1065,
-    "timeDay": 882,
-    "timeWeek": 950,
+    "uptimeYear": "72.46%",
+    "time": 1066,
+    "timeDay": 1017,
+    "timeWeek": 939,
     "timeMonth": 973,
-    "timeYear": 1049,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2026-05-04": 467,
       "2026-05-03": 55,
@@ -270,8 +268,7 @@
       "2025-11-16": 55,
       "2025-10-03": 97,
       "2025-08-11": 422,
-      "2025-08-10": 55,
-      "2025-05-19": 395
+      "2025-08-10": 55
     }
   },
   {
@@ -285,11 +282,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 567,
-    "timeDay": 142,
-    "timeWeek": 199,
-    "timeMonth": 210,
-    "timeYear": 471,
+    "time": 565,
+    "timeDay": 204,
+    "timeWeek": 183,
+    "timeMonth": 206,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2026-02-24": 37,
       "2026-01-27": 11,
@@ -307,12 +304,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.69%",
-    "time": 1189,
-    "timeDay": 920,
-    "timeWeek": 1069,
-    "timeMonth": 1224,
-    "timeYear": 1203,
+    "uptimeYear": "95.71%",
+    "time": 1188,
+    "timeDay": 1259,
+    "timeWeek": 1087,
+    "timeMonth": 1222,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2026-03-09": 474,
       "2026-03-08": 55,
@@ -334,8 +331,7 @@
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
-      "2025-09-21": 57,
-      "2025-05-19": 395
+      "2025-09-21": 57
     }
   }
 ]
